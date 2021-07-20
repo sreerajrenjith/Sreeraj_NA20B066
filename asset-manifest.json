@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Sreeraj_NA20B066/static/css/main.a617e044.chunk.css",
+    "main.js": "/Sreeraj_NA20B066/static/js/main.a9ff8255.chunk.js",
+    "main.js.map": "/Sreeraj_NA20B066/static/js/main.a9ff8255.chunk.js.map",
+    "runtime-main.js": "/Sreeraj_NA20B066/static/js/runtime-main.ca8052b7.js",
+    "runtime-main.js.map": "/Sreeraj_NA20B066/static/js/runtime-main.ca8052b7.js.map",
+    "static/js/2.f3b08398.chunk.js": "/Sreeraj_NA20B066/static/js/2.f3b08398.chunk.js",
+    "static/js/2.f3b08398.chunk.js.map": "/Sreeraj_NA20B066/static/js/2.f3b08398.chunk.js.map",
+    "static/js/3.83f0657c.chunk.js": "/Sreeraj_NA20B066/static/js/3.83f0657c.chunk.js",
+    "static/js/3.83f0657c.chunk.js.map": "/Sreeraj_NA20B066/static/js/3.83f0657c.chunk.js.map",
+    "index.html": "/Sreeraj_NA20B066/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Sreeraj_NA20B066/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.f3b08398.chunk.js.LICENSE.txt": "/Sreeraj_NA20B066/static/js/2.f3b08398.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Sreeraj_NA20B066/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca8052b7.js",
+    "static/js/2.f3b08398.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.a9ff8255.chunk.js"
+  ]
+}
